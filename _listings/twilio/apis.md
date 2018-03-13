@@ -41,7 +41,7 @@ apis:
   tags: Conference Calls
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/conference-calls/master/_listings/twilio/accounts-accountsid-conferences-conferencesid-participants-format-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/conference-calls/master/_listings/twilio/accounts-accountsid-conferences-conferencesid-participants-callsid-format-delete.md
 x-common:
 - type: x-net-library
   url: https://www.twilio.com/docs/csharp/install
